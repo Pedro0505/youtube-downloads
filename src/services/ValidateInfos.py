@@ -25,4 +25,4 @@ class ValidateInfos:
         res_options = ['144p', '240p', '360p', '480p', '720p', '1080p']
 
         if not (res) in res_options:
-            ValueError('Invalid resolution')
+            raise ValueError('Invalid resolution')
