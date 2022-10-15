@@ -20,10 +20,13 @@ class Program:
                 )
         except ValueError:
             print('Ops está não é uma url válida!')
+            return
         except FileNotFoundError:
             print('Está não é uma extensão suportada!')
+            return
 
         if extension == 'mp3':
+            print('Baixando...')
             self.youtube.only_song(url, path)
         else:
             res_options = '(144p/240p/360p/480p/720p/1080p) '
@@ -32,7 +35,9 @@ class Program:
                 self.validator.validateRes(resolution)
             except ValueError:
                 print('Tipo de resolução não esperada')
+                return
 
+            print('Baixando...')
             self.youtube.video(url, resolution, path)
 
 
