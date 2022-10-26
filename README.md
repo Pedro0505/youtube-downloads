@@ -38,6 +38,10 @@ Para inicar o projeto basta rodar o seguinte comando:
   python3 src/main.py
 ```
 
+Demonstração do projeto:
+
+![](https://github.com/Pedro0505/youtube-downloads/blob/main/public/project-introduction.gif)
+
 ## Stacks Usadas
 
 - pytube
