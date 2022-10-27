@@ -1,6 +1,6 @@
 # Youtube Downloads
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Faça download dos vídeos ou de áudios a partir das urls do youtube 
 
 ## Instalando o projeto
 
