@@ -1,6 +1,8 @@
 # Youtube Downloads
 
-Faça download dos vídeos ou de áudios a partir das urls do youtube 
+Faça download dos vídeos ou de áudios a partir das urls do youtube
+
+![](https://github.com/Pedro0505/youtube-downloads/blob/main/public/project-introduction.gif)
 
 ## Instalando o projeto
 
@@ -37,10 +39,6 @@ Para inicar o projeto basta rodar o seguinte comando:
 ```bash
   python3 src/main.py
 ```
-
-Demonstração do projeto:
-
-![](https://github.com/Pedro0505/youtube-downloads/blob/main/public/project-introduction.gif)
 
 ## Stacks Usadas
 
