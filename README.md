@@ -1,6 +1,8 @@
-# Título do Projeto
+# Youtube Downloads
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Faça download dos vídeos ou de áudios a partir das urls do youtube
+
+![](https://github.com/Pedro0505/youtube-downloads/blob/main/public/project-introduction.gif)
 
 ## Instalando o projeto
 
